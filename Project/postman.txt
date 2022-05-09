@@ -1,0 +1,22 @@
+Update
+
+ { 
+            "first_name":"shahriyar",
+            "username":"Sf07",
+            "id":3
+}
+
+add
+   { 
+            "first_name':'shahriyar",
+            "last_name":"Fahim",
+            "username":"Sf07",
+            "mobileno":"01234287097",
+            "email":"sf07@gmail.com",
+            "password":"ssff0240",
+            "confirmpassword":"ssff0240",
+            "gender":"male",
+            "department":"LAW",
+            "updated_at":"2022-04-17 10:32:57",
+            "created_at":"2022-04-13 10:32:57"
+           }
